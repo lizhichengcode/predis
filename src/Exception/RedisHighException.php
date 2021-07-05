@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace RedisHigh;
+namespace Lizhichengcode\RedisHigh\Exception;
 
 use Exception;
 
@@ -12,5 +12,5 @@ use Exception;
  */
 class RedisHighException extends Exception
 {
-
+    
 }
